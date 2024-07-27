@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(132, 22, 22);
+}
+.div1{
+    background-color: rgb(154, 154, 154);
+}
+footer{
+    font-family: Menlo,Monaco,Lucida Console,'Courier New',Courier,monospace;
+    color: white;
+    background: rgba(99, 48, 48, 0.7);
+}
